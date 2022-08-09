@@ -2,10 +2,10 @@
     <div id="footer">
         <div>&copy;2017 - {{copyDate}} Password Generator Website</div>
         <div>
-            |<RouterLink to=""> Legal </RouterLink>
-            |<RouterLink to=""> Passwords </RouterLink>
-            |<RouterLink to=""> Integrity </RouterLink>
-            |<RouterLink to=""> About </RouterLink>|
+            |<RouterLink to="/legal"> Legal </RouterLink>
+            |<RouterLink to="/"> Passwords </RouterLink>
+            |<RouterLink to="/integrity"> Integrity </RouterLink>
+            |<RouterLink to="/about"> About </RouterLink>|
         </div>
         <div>
             <a href="https://twitter.com/GetNewPwd" target="_blank"><img src="@/assets/img/TwitterLogo.png" alt="Twitter"></a>

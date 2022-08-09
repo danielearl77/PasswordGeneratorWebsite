@@ -7,7 +7,7 @@
         
         <nav>
             <RouterLink to="/">Passwords</RouterLink>
-            <RouterLink to="/">File Integrity</RouterLink>
+            <RouterLink to="/integrity">File Integrity</RouterLink>
             <RouterLink to="/about">About</RouterLink>
         </nav>
     </header>
